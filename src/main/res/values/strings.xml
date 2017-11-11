@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Paleen</string>
+    <string name="intro">
+Round 1: You will be given with a String. The final target is to generate an anagram of a palindrome by removing letters one at a time.
+        Player 2 is the Computer.
+If you win, you go to the next Round, else Game terminates.
+\n\n
+Round 2: There is a grid of 4x4 . U will be given 4 toys which are to be placed in the grid such that each column and row should have a toy.
+Constraint is that if there is a toy in a row , you cannot place the next toy in the row , column and diagonals of the current toy's location.
+    </string>
+    <string name="enter_name">Enter your Name</string>
+    <string name="done">Done</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
